@@ -16,7 +16,7 @@
     </center>
     <p><h1><font color="blue">Windows 10</font></p>
     <a href="Windows 10.html"><img class='grow' src="windows 10.png" width="500"></a>
-    <p><font color="yellow">Browser</font></h1>
+    <p><font color="yellow">All Browsers</font></h1>
     <a href="Browser.html"><img class='grow' src="browser.png"></a></p>
     <font color='black'><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p></font>
     <legend>this image magnification script was taken from a stackoverflow<a href="https://pt.stackoverflow.com/users/71206/pedro-souza"> link user in his stackoverflow</a></legend>
